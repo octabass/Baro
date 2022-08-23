@@ -1,0 +1,16 @@
+* {
+	font-family: 'Roboto Mono', monospace;
+	font-weight: 100px;
+}
+
+.container {
+	background: #86f;
+	padding: 20px 5px;
+	widows: 360px;
+	height: 360px;
+	margin: 40px;
+	background-image: url(https://fondosmil.com/fondo/17010.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+}
+
